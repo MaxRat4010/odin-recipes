@@ -1,5 +1,5 @@
 body {
-    background-color: crimson;
+    background-color: seagreen;
 }
 
 .class-for-chicken {
@@ -39,5 +39,22 @@ img {
 }
 
 .header-for-pork {
+    font-size: 36px;
+}
+
+
+
+.class-for-potato {
+    text-align: center;
+    font-size: 36px;
+}
+
+.text-for-potato {
+    color: white;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header-for-potato {
     font-size: 36px;
 }
